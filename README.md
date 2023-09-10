@@ -1,8 +1,7 @@
 # Timer
 
-* [Посмотреть можно здесь](https://codepen.io/VladimirAlbrekht/pen/ZEVeXam)
-
 Таймер обратного отсчета(Дни/часы/минуты/секунды)
+[Посмотреть можно здесь](https://codepen.io/VladimirAlbrekht/pen/ZEVeXam)
 
 ## Цель: 
 
